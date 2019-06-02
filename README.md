@@ -40,6 +40,10 @@ While the third book in the trilogy is all about git, and I'd highly recommend i
 
 I just learned this exists, so I have no idea if it's any good, but it sounds handy if you prefer GUIs to the command line. Might be useful if you're primarily familiar with Unity, especially if you expect to work with large files — it says it has LFS baked in.
 
+**Me!**
+
+I'm also happy to help answer any questions you may have from this workshop. Feel free to shoot me a message on Twitter, where I'm [@nickcummings], or DM me on the PIGSquad Slack. And if you're feeling so inclined, please feel free to give me a follow on [whymog.itch.io]!
+
 [this repo]: https://github.com/whymog/pigsquad-git-workshop
 [this repo - commits]: https://github.com/whymog/pigsquad-git-workshop/commits/master
 [Pro Git]: https://git-scm.com/book/en/v2
@@ -48,3 +52,5 @@ I just learned this exists, so I have no idea if it's any good, but it sounds ha
 [Hartl - text editor]: https://www.learnenough.com/text-editor-tutorial/vim
 [Hartl - git]: https://www.learnenough.com/git-tutorial/getting_started
 [GitHub for Unity]: https://unity.github.com/
+[@nickcummings]: https://twitter.com/nickcummings
+[whymog.itch.io]: https://whymog.itch.io/
