@@ -11,9 +11,9 @@ Learning git can be a little disorienting at first because, in many cases, you'r
 2. When a VCS, such as git, is useful — or _not_ useful
 3. How to use git to manage and track a programming project (such as a website, a video game, or anything else that involves digital files)
 
-## Workshop walkthrough
+## Workshop outline
 
-TK
+It's right [here!][outline]
 
 ## Resources
 **This repository**
@@ -44,6 +44,7 @@ I just learned this exists, so I have no idea if it's any good, but it sounds ha
 
 I'm also happy to help answer any questions you may have from this workshop. Feel free to shoot me a message on Twitter, where I'm [@nickcummings], or DM me on the PIGSquad Slack. And if you're feeling so inclined, please feel free to give me a follow on [whymog.itch.io]!
 
+[outline]: https://docs.google.com/document/d/1GZQM01takXnKCuqo6QVdJosd2pbo2jw7v7Phr71u-tk/edit?usp=sharing
 [this repo]: https://github.com/whymog/pigsquad-git-workshop
 [this repo - commits]: https://github.com/whymog/pigsquad-git-workshop/commits/master
 [Pro Git]: https://git-scm.com/book/en/v2
