@@ -15,6 +15,26 @@ Learning git can be a little disorienting at first because, in many cases, you'r
 
 It's right [here!][outline]
 
+## What next?
+
+After this workshop, you should have a pretty decent understanding of what git is and how it's used. And maybe you even got a small taste of web development, too. So where should you go from here? I have a few ideas:
+
+### 1) Keep building out your portfolio page
+
+This is your webpage to own and do with as you'd like. If you want to host your portfolio on GitHub, for example, it should be pretty easy to get that up and running. However, you'll probably find vanilla HTML kind of a drag to maintain.
+
+[GitHub Pages] recommends [Jekyll], a static site generator that makes it easy to create templates and publish blog posts for your content. It does have a learning curve, but I've built a few Jekyll sites and I'm happy to help answer questions if you get stuck. The community is pretty strong around Jekyll online, too, so a quick Google search should yield answers to most of your questions.
+
+### 2) Practice creating branches and pull requests
+
+Now that you've got your repo set up, try checking out a new branch to add a new feature to your site! Branches are most effective when they set out to do one thing — for example, "update-background-colors" sounds like a reasonable branch because it says what it does and just does that one thing. You can then practice creating a pull request on GitHub to merge your changes from that branch back into the `master` branch.
+
+This branch => pull request => merge loop is the key of collaborative development. It ensures collaborators are all reviewing code, and it also prevents people from pushing directly to `master`. That means there's less stepping on toes _and_ more oversight into who's building what. It's a win-win!
+
+### 3) Try adding git to a game you're making
+
+If you've already got a game in progress, why not initialize a git repository within its root directory? You can go through the process of making an initial commit, setting up a `.gitignore`, setting a remote server (like GitHub) as "origin" to back up your repository, and so on. If you're nervous, I totally get that — just make a copy of your project first and try setting git up in that copy first.
+
 ## Resources
 **This repository**
 
@@ -49,6 +69,8 @@ I'm also happy to help answer any questions you may have from this workshop. Fee
 [this repo - commits]: https://github.com/whymog/pigsquad-git-workshop/commits/master
 [Pro Git]: https://git-scm.com/book/en/v2
 [Learn Enough]: https://www.learnenough.com/
+[GitHub Pages]: https://pages.github.com/
+[Jekyll]: https://jekyllrb.com/
 [Hartl - command line]: https://www.learnenough.com/command-line-tutorial/basics
 [Hartl - text editor]: https://www.learnenough.com/text-editor-tutorial/vim
 [Hartl - git]: https://www.learnenough.com/git-tutorial/getting_started
