@@ -44,8 +44,13 @@ a:active {
 }
 
 .left-column {
-  display: grid;
+  display: block;
   justify-items: center;
+  text-align: center;
+}
+
+.left-column .bio {
+  text-align: left;
 }
 
 .headshot-wrapper {
@@ -53,7 +58,7 @@ a:active {
   justify-items: center;
   align-items: center;
   
-  width: 200px;
+  width: 100%;
   height: 200px;
 }
 
